@@ -1,10 +1,21 @@
 <br clear="both">
 
-<h2 align="center">Hi there👋<br>I'm Shavinka Jayamaha!</h2> 
-<span><img align="center"  alt="octocat gif" width="300" src="https://cdn.dribbble.com/users/364116/screenshots/1899338/yogocat_animation.gif"></span>
+<h2 align="center">Here we are, on a mission to conquer bugs!<br></h2> 
+<img width="1834" alt="Make your README" src="https://github.com/Shavinka06/Shavinka06/assets/91057321/09a572a3-2042-44d8-b19d-7f18126c6306">
+
+</div>
+   <p align="center">
+     <samp>
+       <a href="https://www.instagram.com/shxvxnkx_j/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==">Instagram</a> |
+       <a href="www.linkedin.com/in/shavinka-jayamaha">LinkedIn</a> |
+       <a href="https://medium.com/@shavinka_j">Medium</a> |
+       <a href="https://twitter.com/_islandwanderer">Twitter</a> 
+     </samp>
+    </p>
+</div>
 
 ###
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shavinka06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shavinka06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
@@ -34,15 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
 
 ###
